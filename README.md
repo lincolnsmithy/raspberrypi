@@ -12,3 +12,5 @@ Applications include:
 * Data logging. Display and log information about environmental conditions (temperature, pressure, light levels).
 * Simple twitter ticker
 
+
+Using tsl2561
